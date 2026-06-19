@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2026-06-19T10:24:55.190994",
+    "matrix_size": 1000,
+    "cpu_latency_s": 0.01712,
+    "cpu_latency_std": 0.00143,
+    "cpu_throughput_gflops": 116.82,
+    "gpu_latency_s": 0.000777,
+    "gpu_latency_std": 7.9e-05,
+    "gpu_throughput_gflops": 2572.48,
+    "speedup_x": 22.02,
+    "gpu_utilization_pct": 0.0,
+    "gpu_memory_used_gb": 0.567,
+    "gpu_simulated": false
+  },
+  {
+    "timestamp": "2026-06-19T10:24:56.327991",
+    "matrix_size": 2000,
+    "cpu_latency_s": 0.1393,
+    "cpu_latency_std": 0.007503,
+    "cpu_throughput_gflops": 114.86,
+    "gpu_latency_s": 0.005971,
+    "gpu_latency_std": 9.2e-05,
+    "gpu_throughput_gflops": 2679.67,
+    "speedup_x": 23.33,
+    "gpu_utilization_pct": 0.0,
+    "gpu_memory_used_gb": 0.629,
+    "gpu_simulated": false
+  },
+  {
+    "timestamp": "2026-06-19T10:25:06.376895",
+    "matrix_size": 4000,
+    "cpu_latency_s": 1.347509,
+    "cpu_latency_std": 0.367431,
+    "cpu_throughput_gflops": 94.99,
+    "gpu_latency_s": 0.031932,
+    "gpu_latency_std": 0.005379,
+    "gpu_throughput_gflops": 4008.57,
+    "speedup_x": 42.2,
+    "gpu_utilization_pct": 66.0,
+    "gpu_memory_used_gb": 0.871,
+    "gpu_simulated": false
+  },
+  {
+    "timestamp": "2026-06-19T10:26:12.959383",
+    "matrix_size": 8000,
+    "cpu_latency_s": 9.522633,
+    "cpu_latency_std": 0.673107,
+    "cpu_throughput_gflops": 107.53,
+    "gpu_latency_s": 0.26608,
+    "gpu_latency_std": 0.000336,
+    "gpu_throughput_gflops": 3848.47,
+    "speedup_x": 35.79,
+    "gpu_utilization_pct": 100.0,
+    "gpu_memory_used_gb": 1.832,
+    "gpu_simulated": false
+  }
+]
