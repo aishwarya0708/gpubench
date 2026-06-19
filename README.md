@@ -149,15 +149,6 @@ NVIDIA's Applied System Engineering teams use telemetry like this to debug infer
 
 ---
 
-## NVIDIA SA Prep Context
-
-This project is part of a structured NVIDIA Solutions Architect preparation roadmap (Jun–Dec 2026):
-- **Jul–Aug:** AWS SAA cert, K8s ML deploy, Docker orchestration
-- **Aug–Sep:** NVIDIA DLI CUDA C/C++, Triton Inference Server, RAPIDS/cuDF
-- **Oct–Nov:** GPU ML pipeline project (this repo), LinkedIn technical posts
-- **Jan 2027:** Apply NVIDIA SA AI/ML New Grad
-
----
 
 ## Author
 
